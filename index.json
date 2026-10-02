@@ -1,0 +1,24 @@
+{
+  "name": "Shiboneko's VRChat packages",
+  "id": "io.github.shiboneko.vrc-packages",
+  "url": "https://shiboneko.github.io/vrc-packages/index.json",
+  "author": "Shiboneko",
+  "packages": {
+    "onl.shibo.avatar-git-sync": {
+      "versions": {
+        "0.2.0": {
+          "name": "onl.shibo.avatar-git-sync",
+          "displayName": "Avatar Git Sync",
+          "version": "0.2.0",
+          "unity": "2022.3",
+          "description": "Buttons-only backup and restore of Unity projects to any Git host over SSH.",
+          "author": {
+            "name": "Shibo"
+          },
+          "url": "https://github.com/Shiboneko/vrc-packages/releases/download/avatar-git-sync-v0.2.0/onl.shibo.avatar-git-sync-0.2.0.zip",
+          "zipSHA256": "8d3f3931cef0d74516d6c7242b8c6633c0c736b5a62fc8188317480121173351"
+        }
+      }
+    }
+  }
+}
