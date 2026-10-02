@@ -89,6 +89,18 @@
           },
           "url": "https://github.com/Shiboneko/vrc-packages/releases/download/avatar-git-sync-v0.4.0/onl.shibo.avatar-git-sync-0.4.0.zip",
           "zipSHA256": "08583f5a5bd4ef6fbde6c50bf4fc4435328895aab7535dd108f50698dea265d9"
+        },
+        "0.4.1": {
+          "name": "onl.shibo.avatar-git-sync",
+          "displayName": "Avatar Git Sync",
+          "version": "0.4.1",
+          "unity": "2022.3",
+          "description": "Buttons-only backup and restore of Unity projects to any Git host over SSH.",
+          "author": {
+            "name": "Shibo"
+          },
+          "url": "https://github.com/Shiboneko/vrc-packages/releases/download/avatar-git-sync-v0.4.1/onl.shibo.avatar-git-sync-0.4.1.zip",
+          "zipSHA256": "dbe020f3b96a4728f5d3844341b060c137d1a95144633b81d8b4c0494ac2c0e9"
         }
       }
     }
